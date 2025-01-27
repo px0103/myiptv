@@ -332,7 +332,11 @@ https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv17_1_360P/playlist.m3
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17
 https://outlivecloud-cdn.ysp.cctv.cn/9399BD8E1467A523E46A66CADE1E2ABAE078E74F158DD8DA9DF2AB1C674EA60524A4B9ECA39BE693D4A425A07A19E84B9D917D1ECF00869C26973D9D9CEC09A64DCD0F00CA13B484D5A5458C7C601D1D98010CCD11C94CEA4BF929A88F91ADA79AC0303E55DD77DC00D3400CE0890DB7/2024079502_web.m3u8?from=player&svrtime=1737554180&pid=600001810&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=b1f4e9b4d8b1d4bb43be86ba88378575&ytime=1737554180&ytype=1
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-https://outlivecloud-cdn.ysp.cctv.cn/C52A08DC0CC32BDC0E5CDB8C3B954B37218AB8F9F974CEBEE045DFCE5EFC0B5810577550390CC854DB8A80397C197CFCA5A81BA8C8805D34E1FBC64790A1C0D7A5D77E6B28C6872772F9E358D69530F02844EAFD37F90C0D6824D2A02D6B38A78B08DBF90D4941627E0C5238200387ED/2024054802_web.m3u8?from=player&svrtime=1737554400&pid=600002475&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=015688b63e07ab9ae11a3b0fd7086293&ytime=1737554400&ytype=1
+https://outlivecloud-cdn.ysp.cctv.cn/1D0E891F64AC7546DEF704F0D5414F1F74DC0188705016A153707EE04E774B047467013097FD35D781E747902CD6A27D7A6B31D3260621E75A48BE8B370FB79AF2BB2EAB159A7D45D2D0218BF1A9B84704B76007CBFF95E69AD7B60F48D1F421538575E668E847EDBD5CE1DEEF3C40EF/2024054802_web.m3u8?from=player&svrtime=1737950547&pid=600002475&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=91ba55d1ff1c752725080dfa6af3cdc9&ytime=1737950547&ytype=1
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+https://edge.yeslive.buzz/live/hunantv.m3u8?token=KvHwVE9iqQWYobKpuKWQHQ&expires=1737968409
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+https://edge.yeslive.buzz/live/hunantv.m3u8?token=8l0H8Miwa077hpqeSEuE6A&expires=1737968489
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 https://stream1.freetv.fun/8f9c1b950218b09e8fb1b0d6b7416bdf4a4635a03c2f67f7880010d106038137.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -1366,7 +1370,7 @@ https://stream1.freetv.fun/019799342dbe85908260a5b9be2551f61003e2ef7d059113b309c
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
 https://stream1.freetv.fun/0b83429accbb5e7cabfb97b00c8748a5606237decccf6e738e3da423ff20fc4c.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
-https://outlivecloud-cdn.ysp.cctv.cn/81EFF4D2AD46004470E63EC1F8525019D8577A385B041774E21CC34D4A601FBA60682673E09A856D48D2B6C966DBCDE0485516F6D7BAE5BBDA095BCEAB64937D5D55C5E012070036F74D5CE469DDC510FA3F49AF8D9ED55A27E9637122FC6BB0F6F150273D48A003D84AA80367E49764/2024061502_web.m3u8?from=player&svrtime=1737557517&pid=600002484&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=e5755fe02efa5a011399c49ff4e6a5ce&ytime=1737557517&ytype=1
+https://outlivecloud-cdn.ysp.cctv.cn/0D2F5CFE4FB95DEBB9AB56ED3CB4DA6119E4E3A0A244BFFC7C6834B9A14E8C83B4230DF81797ED5583399F32D75E48E9A31ADA88BD3768EB4B13E9911F396E849E14BFEA7E48EE06F4645EE832B9453B671CC61A08EF119482E3545794FDD23B8102368FAFB703C7169D8EC9467D4CBE/2024061502_web.m3u8?from=player&svrtime=1737950703&pid=600002484&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=90106c450ae597fbaff745a3d248b8a0&ytime=1737950703&ytype=1
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
 https://stream1.freetv.fun/027f5341735605fa1b8315181344118a7a0044cd04625f55db27690f683ace1b.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
@@ -1748,6 +1752,8 @@ https://stream1.freetv.fun/2ed11f7c0959c77212164cdc0f644265d8c7aa309ea031068b297
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
 https://outlivecloud-cdn.ysp.cctv.cn/5236A46EFDF907EB978E1330E7874F294D67C30AC3F06FB81F5A9030A1A963CEC6F1581FD758F9284313BFB30A24CB3468A24346872D003477986F44E3F5C5C76652ED32454A9DB4344243BD259B24943A37C11F7553AD0B30AB3EE35E50F22A5ABCBDBF2C028D61CD2CF34C56EE4D18/2024060702_web.m3u8?from=player&svrtime=1737558222&pid=600002509&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=9798212d075c3c84cf28e7abe2b4b863&ytime=1737558223&ytype=1
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
+https://outlivecloud-cdn.ysp.cctv.cn/C2483F463648545D3A6804802208D15A6BACF06CCF455CDF63DD63064C28CAD26D181235C9F4D0A189BD3FDB8E6B9AB77F9C0B9E8D29A75C3CD44EBAF1912A49BC9BDF19A152A2DBE1D2AD807CE95717E4DEA231D6AD59004199D77EA2469568C1FACA03E220997A2C7AD0ECDDAAF3EA/2024060702_web.m3u8?from=player&svrtime=1737951082&pid=600002509&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=a34f0e0a4b2b87ca15e7521ba3015d53&ytime=1737951082&ytype=1
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
 https://stream1.freetv.fun/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
 https://stream1.freetv.fun/eeb0f67095bd72341e7d6894c1c605b986628afee8f69174845095fc7bff093e.m3u8
@@ -1827,6 +1833,8 @@ https://stream1.freetv.fun/4c867fa060d93364fea14f76352726bd2ebc55be6154220cd9ada
 https://outlivecloud-cdn.ysp.cctv.cn/5236A46EFDF907EB978E1330E7874F294D67C30AC3F06FB81F5A9030A1A963CEC6F1581FD758F9284313BFB30A24CB3468A24346872D003477986F44E3F5C5C76652ED32454A9DB4344243BD259B24943A37C11F7553AD0B30AB3EE35E50F22A5ABCBDBF2C028D61CD2CF34C56EE4D18/2024060702_web.m3u8?from=player&svrtime=1737558222&pid=600002509&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=9798212d075c3c84cf28e7abe2b4b863&ytime=1737558223&ytype=1
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
 https://outlivecloud-cdn.ysp.cctv.cn/70ECBB101556919BD1D839B5499EE6A559EA662865D034F1E9C4E950AB8B24DC43A58FDD5656A363E32B4F9FFE7734B594F98F4457C12CAB42830CA3037777271DEA9060AE3A0283F34DB55E94E0586A723927A18BE49FA9212370785D979FF9B9CA11756A632A2C63DC1D042A0E1A1D/2025560802_web.m3u8?from=player&svrtime=1737558354&pid=600190407&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=2c085069fa12059d08a9624d0ea1cb48&ytime=1737558354&ytype=1
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
+https://outlivecloud-cdn.ysp.cctv.cn/77DEC4B3B03C78B4E78C362D2076F95D1523C390668FF6DF0A64C5857E43DFCD6C6987969EB654AD8D0925D0271F0089B8000DAA1560CE2EAF937C6FA543801DB979CA359D712E30EDC20E6FA9A3EB16BCBF4EF7C611285C45669DD59C6127F09F790C82896FB2075C6690AE2A050A40/2025560802_web.m3u8?from=player&svrtime=1737951169&pid=600190407&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=a7a53bd2244a54b42a91c2c333fee1d2&ytime=1737951169&ytype=1
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
 https://stream1.freetv.fun/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
@@ -1908,6 +1916,8 @@ https://stream1.freetv.fun/b4d552a38e5aeb9674e5a85b017616fdeaaf6306fee2751a74536
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 https://outlivecloud-cdn.ysp.cctv.cn/447A1D197654A478E0ECA86DE5E9AA4B69EDFCBD650DB869366EBE69E0AA2E4A7A2C3709C1FC630A39B9EABE77AA6678FE9B73141C732E846CA72D8A379426C9881B4EF2F8A1AE92443145995E4D08BB25761F48AE10A8F77714A7F907F9A780DE958619D89CCF5477D8ADB714B03B07/2025561102_web.m3u8?from=player&svrtime=1737558519&pid=600190400&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=c7bea6e686bf708ee50316b009d7e11e&ytime=1737558519&ytype=1
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
+https://outlivecloud-cdn.ysp.cctv.cn/E2175E81827C9A0E8EBA8E925975FD7EE191CF8CF333B0132A9423D332C75BBA773E8D3CC26915090337310A2701486D98CDC8176BFEE1CCFA58C6ED1F4C49CD70A144FD3DA032CA65D6CBB6D9DEA00A79DE44B2DCDB670FA5CBE7F12AC6883E6F06444A5A77CC9BC949D7F182D2051B/2025561102_web.m3u8?from=player&svrtime=1737951251&pid=600190400&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=3c69ac7087597b982138fc3809350310&ytime=1737951251&ytype=1
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 https://stream1.freetv.fun/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 https://stream1.freetv.fun/f329709f6f2f437e06a426ffc1a1aa9c1459f09aa35b76d24c9a104450f10e08.m3u8
@@ -1978,6 +1988,8 @@ https://stream1.freetv.fun/9e3fb9ab48b92c15094f2bd804748c59a3abf8b3eb8cc6706fe35
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://outlivecloud-cdn.ysp.cctv.cn/B04E57D1B94496E7C11A9CB050414278B6302E9552949E63C0A89CC62C1571008230EA3D3D27DA149EE6FF9E0535FC497C4603C3868B80BE37669616CFEB4F15C46F7779A501F61BD07108CF858BB71AC4127473B18B858A4BB9458DA2917D82AA651D14D66E66D42E4DE7003C322007/2025561202_web.m3u8?from=player&svrtime=1737558723&pid=600190401&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=65db3da1dbf2da542a532f559aed4fe0&ytime=1737558723&ytype=1
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+https://outlivecloud-cdn.ysp.cctv.cn/E9F7A076CF6796575B5C559FDB4D289DCBFF067595991728AFBA6ABA49FA4312D770F5777ECBDE9137225A761063DB17D5715950DBDA10185A5BB333E284D08A5B447C5AD1AC45D7BCB52AA58F96D96014053E757C77ABB4543E4E657DF0400F9549AE60E34D38DC85C6130F8D2AD589/2025561202_web.m3u8?from=player&svrtime=1737951346&pid=600190401&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=fd6e7703f74442443bb1f2f00dd904c7&ytime=1737951347&ytype=1
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://stream1.freetv.fun/325ee158a9026a625e36ada7cab8bf4606657903a9312e1c19a2af5e7a73d1b7.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://stream1.freetv.fun/1e5dc1f802d7775ea9cde7b7b874b914365797c6718c5e95448aa26648e136e6.m3u8
@@ -2031,6 +2043,9 @@ https://stream1.freetv.fun/ad7314a16b55c53ae78c2117774a007d72a550e07646ad5c29347
 https://stream1.freetv.fun/d21c1521f227bb2de525ef12cf179c9f7ff6697888b093d6a2ad5f1964c1b7a5.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 https://outlivecloud-cdn.ysp.cctv.cn/9E5817D319DEA8A8021DD02611B81B680D131D9A9D04596042DBD44FCFC1269F008EFED1DC38D3F36B96E996EFE3CAF7C4464A8A738EC0F9762A2895F92A0C1F215DA9B7712502E19C9257569CAC1B7C5F5BA3F536056750AD7BEFAE53432FFDA80B715F87218E6D106CEAAD6E563ABE/2025608502_web.m3u8?from=player&svrtime=1737558857&pid=600190737&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=802dec31676c78d2e5c5c90b8d6850b7&ytime=1737558857&ytype=1
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+https://outlivecloud-cdn.ysp.cctv.cn/12D20CDFB0108C0682AD01C6E139659FA6B1FB8E688F4DD71D8D940CF4AA8935E4C9814FBB18ECE498FB87403571DFE1A5BDEC068ACB2A2BF1DCDC6FCA19F4043D06CAC9046FE5C855179704DCCF34A00858053F578E766987561CA1C8249165404F1A1FDEAEB8196F42F15326965D01/2025608502_web.m3u8?from=player&svrtime=1737951395&pid=600190737&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=b4cbf702b0d39dec6e60ca017299d702&ytime=1737951395&ytype=1
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 https://stream1.freetv.fun/c3a22585493b5fbb62ab4b873bbf60ce767e779781bf178117fcf0918e2de201.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 https://stream1.freetv.fun/cc16a0fe49219a8e892e4ac0a89d626d09f0c5af7cd94198648427aca9719943.m3u8
@@ -2137,6 +2152,8 @@ https://stream1.freetv.fun/f6b9fef6399b7a37be1107d030e3e5f50141acb021a2d804bef59
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 https://outlivecloud-cdn.ysp.cctv.cn/DAA180890615292C61A75C7F043040BE5F3A949AC4DDCCB00374EEA2EAADBA2CAC0FF1CD1921044DB83B11A69B8DF3FE31E2E3916B55917FC8EC9C3A0F3BF13D53CA6329D0465E2B3AE51D20C5B321D462FB805E238352A3F3B3B8328D94825AD65EC3C2ACD93A02F088D18257A0FC09/2024061302_web.m3u8?from=player&svrtime=1737559249&pid=600002481&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=ad286bcc0d2e9b4c111ab1d30b338c8b&ytime=1737559249&ytype=1
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://outlivecloud-cdn.ysp.cctv.cn/D056AD625ECC8B4E613B743864D721F82B4B01F2F12FAC6E9697C6A18CE9054FF5AD0D9349BC5C2DD60B22A21A9C93AB57395F863A6135D4C59102BD2CA112CDFF8C95340E6CF2FFE9BEC8559B4D05A3768D2518EDCC0C61C4ECEA3B672E24AB38F51811A6616302A4652122A305E739/2024061302_web.m3u8?from=player&svrtime=1737951473&pid=600002481&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=c8be673956fc77a2c19fb85678d1c305&ytime=1737951473&ytype=1
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 https://stream1.freetv.fun/d279125a367f817103ab01e34e246154552a5a0a39555818b59a00a825a4560c.ctv
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 https://stream1.freetv.fun/70e0c61a2138f9919d7866ffe7c1a9340c1811b880a47acc3412944ecdc76eb3.m3u8
@@ -2219,6 +2236,8 @@ https://stream1.freetv.fun/5e52e7e8bd6f5f4c7262ce3ecc6aa28fa1e294834940403d823f3
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 https://outlivecloud-cdn.ysp.cctv.cn/BB4897D12B8492B8D65C6053B561CF9ACA6A6A8684D8751D85B082697F9189F12E934E3E76FAEF33AB2C7C5E2D762FE1A2E69E726BB3D0638E14E161049FBF49F01C0225D6BD382385A2036EAFCFA0C15608F9EE575DF5C3E5862963891188AA7BAA1DA5DBDAE77932DE0C7430C0AB0F/2024171302_web.m3u8?from=player&svrtime=1737559451&pid=600002505&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=785814c41e8e76d564db8d300516cd63&ytime=1737559451&ytype=1
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+https://outlivecloud-cdn.ysp.cctv.cn/7AFBEE7A5D32A785F0F9F83B732B73ECCFC6CC1D4A773D098972EBA0FCE0C9896190CD4796EAFF080BCAE8746E71868A849D0A6AABEFB4FDAF4B5687B3ACB047743B692DC53E9F4C3EBA2443F66C4F0F4798659263D0BF97E5AB82D29BF8367269030D6D35E2B651BC9978BD3EE243E9/2024171302_web.m3u8?from=player&svrtime=1737951530&pid=600002505&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=9e52b3f588482531ddc3918d6ae4b9bb&ytime=1737951530&ytype=1
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 https://stream1.freetv.fun/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 https://stream1.freetv.fun/b2bebbb6d53b62ec21c3dca43f81123f14218a573e3986c8d65755142700cba7.m3u8
@@ -2300,6 +2319,8 @@ https://stream1.freetv.fun/21ba42e25e1f832430d912489ac2a4370c967f7c9a824da311f3f
 https://stream1.freetv.fun/4212139954bcbc1ff4c5d7956d783cc9e0fc89bb55c80ef41fc9448a538d1d6f.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 https://outlivecloud-cdn.ysp.cctv.cn/1423A1B5F268668F83D9DB36C44F62F3AE2F2DC1E78C7C2C5B1D5BF0F84CA384568233D80260ABBDFB44CE667565F24C18BD6CE2E528562C82F558508B83FDE778C466F369CB94862E3C48003297A05685E8022723EE26BC727ED0F536D3403865B7F6E45A4E3F77A3671118E069A28A/2024061002_web.m3u8?from=player&svrtime=1737559617&pid=600002498&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=6b50088f696d999b7db98d95f7f93857&ytime=1737559617&ytype=1
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+https://outlivecloud-cdn.ysp.cctv.cn/0F1CDBFAE8991701A9FFC29E92AE59AB7A65F802CF13B58A6E89E4A49A80F3086B1A8B34EB12412DC3E21A7E23BFECED57E3F5615E59A20D990E93A544D2FAF7F4C7140E31C82F392621D515EC0D01717B9CDDA5D205CE092E22AA6F1F576BE22A9473D179C63D4F655B07CDB5A510CC/2024061002_web.m3u8?from=player&svrtime=1737951591&pid=600002498&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=4c821fc2079b17a3e2c82c57d88cea58&ytime=1737951591&ytype=1
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 https://stream1.freetv.fun/113695d3da46c69b1345add05522320e92e79f9780860615516cf565d247642e.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
@@ -2395,6 +2416,8 @@ https://outlivecloud-cdn.ysp.cctv.cn/A8B1A44A2319FBA89DACE00A927606546461607169A
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
 https://outlivecloud-cdn.ysp.cctv.cn/6FD8AA0547A6EDE90E371C838101F11E92A59B9179FC13ABE2C8E99E29201BD0E8F0FF64509DF9252AAEDA115B57EAF3573018EA3617202306A39C5E45B49D662516AF44455118EFEDD9EB7D0F0D4538ED60B4FC64F4BDE7C94C5394600041B035533C44D5AA1AE92CA62850C8FC9BF2/2024054502_web.m3u8?from=player&svrtime=1737559821&pid=600002483&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=33bdb8674f0a05771843aa00739a664c&ytime=1737559821&ytype=1
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
+https://outlivecloud-cdn.ysp.cctv.cn/1E68A8FF719246921DC9BBC206C74CFD603871737DBD3CEEA8D69CFECBC3331F20A626F0FE6FE8E77E9DE6C3D87F0622531A3EA7582C9BCB4DABDDBD0D98EDAE470ECEAB455D95A9A33F4B4EBD64983E399DF7563D1CB71307A58402550963CF9304D890189D675B0E3BD3F25678A51A/2024060902_web.m3u8?from=player&svrtime=1737951631&pid=600002485&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=1a6721d02b7b68596ed3cd1861915428&ytime=1737951631&ytype=1
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
 https://stream1.freetv.fun/eb7a5a450a87157712e9afc63da8f145ee437bbe67c89afe80ae08611c46c61d.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
 https://stream1.freetv.fun/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
@@ -2485,6 +2508,8 @@ https://stream1.freetv.fun/60c8db6a3ec3c761f3c1e81d2bf01c4c0dd4d98f43f239656f920
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
 https://outlivecloud-cdn.ysp.cctv.cn/F206EF6BF748107EBFD83DD8D5F14C62304920E84CD992D0DC1A3071BFAFD2E6F4B5D9E40A4FD4E8DB29B58B0AC87AB6FE38F590F22BD1A70175E8B980A1B3C72869E6DB5B867FE25DEA842925C819B3CFB761F42B33169C970710C71DD389892B5DAA61C8DEE8ECE680182B7CD3A847/2025561302_web.m3u8?from=player&svrtime=1737560024&pid=600190402&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=e8b34bdd8882ca0cc7ea7d0425fa36ad&ytime=1737560024&ytype=1
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
+https://outlivecloud-cdn.ysp.cctv.cn/7EFDD26C6FB64F7CB92E893C45BC78B48E989A73C2A2A683F6723ABA9FE5EBC97D146EEE72B9D194E958D7E53AEB16FC72BE58D98F0597F18D4E4F837C6ABEBFDF41BEAA34E7274A486E55B07C0AA927AABFE2449507EBCB5082F37794E4E2C9EAFAA38D0DB35DF279437765E2B052AA/2025561302_web.m3u8?from=player&svrtime=1737951709&pid=600190402&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=3b3784e8a8c3653dfc6c844b0e096963&ytime=1737951709&ytype=1
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
 https://stream1.freetv.fun/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
 https://stream1.freetv.fun/db3a0a73c90fdc8f86e527b0c2ff10fffe1813c3ad779aeac33e8df0a8bd575a.m3u8
@@ -2542,6 +2567,8 @@ https://stream1.freetv.fun/06afd1dc3dbd4e026594ee45c2f245b90205d035d4986d0a78ce0
 https://outlivecloud-cdn.ysp.cctv.cn/F206EF6BF748107EBFD83DD8D5F14C62304920E84CD992D0DC1A3071BFAFD2E6F4B5D9E40A4FD4E8DB29B58B0AC87AB6FE38F590F22BD1A70175E8B980A1B3C72869E6DB5B867FE25DEA842925C819B3CFB761F42B33169C970710C71DD389892B5DAA61C8DEE8ECE680182B7CD3A847/2025561302_web.m3u8?from=player&svrtime=1737560024&pid=600190402&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=e8b34bdd8882ca0cc7ea7d0425fa36ad&ytime=1737560024&ytype=1
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
 https://outlivecloud-cdn.ysp.cctv.cn/856C2FFBB972C865B1DB3CF8307BA6C130F260BFB7908A8C0357613045A135C9D1F21CFE922D833B0B5C3DA197A1EE9087A25E3928334033628E38EF6A99FA00CAF2C53A517CE8D62DEDA2075E61FEA34C0353F7EE24667FF577525536867A5FCCE9A2244566EBD74307B2E80142F07C/2025559102_web.m3u8?from=player&svrtime=1737560170&pid=600190406&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=c0ae45b802e7ba86157d441f8a6bd9b7&ytime=1737560170&ytype=1
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
+https://outlivecloud-cdn.ysp.cctv.cn/7A020564FEEBC555F67C14843B4686DAD86F8653B01337C64C6414DAC81F2344A028BA5EF26557D68D5871EB58292FEA247D01BF03107C6E3432F1F05797C6AB8437DF928A59DC515311A5F0EAA14A8E3F46A95E6742DEDD4491388A255C2133E274FC6A002DD06517C552086A9B804A/2025559102_web.m3u8?from=player&svrtime=1737951759&pid=600190406&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=6e17ae2a81d7724f99c31b2878c8d40a&ytime=1737951759&ytype=1
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
 https://stream1.freetv.fun/fad5348a9b285c835736b9f812f4785acff0120fc543ca59063b87dca13e7229.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
@@ -2623,6 +2650,8 @@ https://stream1.freetv.fun/d6cb8a9b2d3d4f555418141ecb008cc61e84a6278690a855241eb
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 https://outlivecloud-cdn.ysp.cctv.cn/BE6B34B3E1318B6D1370E41C7E9CB7559C6A4D7E32AD120B4CDFB71979AA1AB94E8EBC40B4B8BDCE79D91643A912753FDB9078666E5246001C1F6C9C1D6E7004C5EE045E3159A50801D426D89C4549F766356A00248814FF100080D456243DBA58319CE8C071C74E40A3DE883D53A4B2/2019927402.m3u8?from=player&svrtime=1737560363&pid=600152138&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=0951c1715b8f94a061fc576ad2ea9fb3&ytime=1737560363&ytype=1
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
+https://outlivecloud-cdn.ysp.cctv.cn/EFD1351E7A1526DB32B09A5373B67CF79F2A2A11400E111A79A5C6A2EE750B601950B18B307D711AE6CC3F2DCD043911001A09DDD47C6C8DC5E4B02C205F8DE9F5B74C76B3B8EF338206C8DD3820A43B145D1551441A7D5A1D163BEE4C207406F798AD8336787D13401C6DABB2E798C5/2019927402.m3u8?from=player&svrtime=1737951820&pid=600152138&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=d5373318b91979d53278ffe30607906e&ytime=1737951820&ytype=1
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 https://stream1.freetv.fun/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 https://stream1.freetv.fun/345c53fbea8456cd1cc4c91283ea05745ba501069d006845745d9bf453f1ab53.m3u8
@@ -2681,6 +2710,8 @@ https://stream1.freetv.fun/ba74609f5ff97c464ff3140e1e89d4a2696465ab07503a47a8f5d
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 https://outlivecloud-cdn.ysp.cctv.cn/92EA4E1005B8FCD96434052B7E6A6D3EC20154B22AA06AEE68C1F686E9700BDD1B39BFF0E0E659E2FF22168EC5EC4B023162537216FC6702FB69A9398498E5D1D4190F0967B6F52CE0E9054BB3FAB5FD00DE7BE7E57DACD36DD6F64E30DBFFAA7296A756C70F94499D1465C6CF6FFE8C/2025561702_web.m3u8?from=player&svrtime=1737560531&pid=600190408&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=444687ba433a04059b468e09a777e49a&ytime=1737560531&ytype=1
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+https://outlivecloud-cdn.ysp.cctv.cn/4788AB9B2736E8D0E1B2BBEF4A53B6CAF9CDF0B4E8BD47985CCF99E832433EEDEAD9D3090F321EE273E8057BEB0A91E8E64D25630AE66D13B710C0AA9AFDAF31D19495BEFA561C3E1A58B3D6A8C1501BB4A6D41E5C36C9CB8D98737699780A8CE7C2E7C9806F8BC7D3E1FD6931654DC7/2025561702_web.m3u8?from=player&svrtime=1737951867&pid=600190408&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=0d320adf71d2cf3694e111dc72a81f5e&ytime=1737951867&ytype=1
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 https://stream1.freetv.fun/4b1f13ba4341c2b65fdf4a5cc14cd1406453c98d29972511ebee68262f82c797.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 https://stream1.freetv.fun/bc85e128433e82a8d2b5d1d64af3f70aab6416637d3c2ccb436199ce8f7fd7a6.m3u8
@@ -2732,6 +2763,8 @@ https://stream1.freetv.fun/df47da8d115daca32d54247cd2e5f5c19f42753ef11dafd4ac8b6
 https://stream1.freetv.fun/7cc76bed6f2f891b941844bc0fa168c739d41772a8435e20998d4ca4594ebea2.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
 https://outlivecloud-cdn.ysp.cctv.cn/82C147535F85863628FD08FC78A6CCAB33FDD2FFAC7941A54A6423D18BFDA9F8932711452E492E26BB5685E3E3C0A1F6AB26B2F4A03C20CE27739DA05ED04AAA1CE37FB1A25C0D529BAA9EEC965CE858559201D0DC07E7F5BE29B0BB9F6FC2DD997D0384412539B5C149CDC23C5CA976/2024060902_web.m3u8?from=player&svrtime=1737560706&pid=600002485&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=19e92e7480c527fddab6512e87c103b9&ytime=1737560706&ytype=1
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
+https://outlivecloud-cdn.ysp.cctv.cn/048EAA8325C7797C0D41B3B1CBD3DC0D7786D7C69CFE784E28513D53A3F3AA0834602EB6D90294DC61FA8FA69F57D12A2625B9FDF13F521F4987284C90DD4D87E16F5731E7D331DBC8B4A727FC815DA20A634A2F1EDA7864492D801CE45AD519C658EC62CE0AD963B3CE245DC1C0C344/2024060902_web.m3u8?from=player&svrtime=1737952011&pid=600002485&cdn=5401&revoi=&app_id=519748109&guid=m67wvcc2_vs50k69alq&ysign=cfbe405016cd412229a29779dd81de06&ytime=1737952011&ytype=1
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
 https://stream1.freetv.fun/a4681773a1aabcd1382a65ecd908aac6d2c779309402b963b787dd9ac257e8a0.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
